@@ -41,6 +41,11 @@ Video File: "snake_game.mp4"
 🎯 Project Objective
 
 The objective of this project is to practice Python programming and understand basic game development concepts.
+🎥 Snake Game Gameplay Video
+
+Watch or download the gameplay recording:
+
+"▶️ Click here to view Snake Game Video" (https://github.com/ajay-230/Snake-Game/blob/main/snake%20record.mp4)
 
 👨‍💻 Author
 
