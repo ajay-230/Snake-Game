@@ -15,7 +15,7 @@ This is a simple Snake Game developed using Python. The player controls the snak
 🛠️ Technologies Used
 
 - Python
-- Pygame (if used in this project)
+- Pygame
 
 ▶️ How to Run
 
