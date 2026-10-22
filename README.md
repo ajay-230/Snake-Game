@@ -21,7 +21,7 @@ This is a simple Snake Game developed using Python. The player controls the snak
 
 1. Install Python on your computer.
 2. Download or clone this repository.
-3. Install Pygame if required:
+3. Install Pygame:
    pip install pygame
 4. Run the Python file:
    python snake_game.py
@@ -34,7 +34,7 @@ This is a simple Snake Game developed using Python. The player controls the snak
 
 🎥 Gameplay Demo
 
-The MP4 gameplay recording is included in this repository, if uploaded.
+The MP4 gameplay recording is included in this repository.
 
 Video File: "snake_game.mp4"
 
